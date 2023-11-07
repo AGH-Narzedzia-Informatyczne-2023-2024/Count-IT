@@ -8,11 +8,6 @@ Projekt Count IT, to aplikacja, która ułatwi dbanie o zdrowy tryb życia. Dzi�
 
 Tutaj można przeczytać więcej: [plan projektu](https://docs.google.com/document/d/1apDjpXmKEzrL-0nE6ZCeOEjP8akZZi5wl0F_ggGkdY8/edit#heading=h.38mtrp5pjges).
 
-| rok 2023  | rok 2024 | rok 2025  | rok 2026 |
-| ------------- | ------------- |---------------|---------------|
-| wydanie aplikacji  | dodanie nowych opcji  | prototyp wersji premium | wprowadzenie wersji premium |
-| promocja aplikacji  | nawiązanie współprac  | dodanie konsultacji z dietetykiem | jednoczesne rozwijanie wersji podstawowej |
-| regularne aktualizacje | prace nad dodaniem konsultacji z dietetykiem | prace nad konsultacjami z trenerem | dodanie konsultacji z trenerem |
 
 
 
@@ -26,3 +21,13 @@ Tutaj można przeczytać więcej: [plan projektu](https://docs.google.com/docume
    + szeroko rozbudowane funkcje,
    + duży wybór materiałów treningowych,
    + różnorodność zdrowych przepisów,
+
+
+
+### Plan rozwoju:
+
+| rok 2023  | rok 2024 | rok 2025  | rok 2026 |
+| ------------- | ------------- |---------------|---------------|
+| wydanie aplikacji  | dodanie nowych opcji  | prototyp wersji premium | wprowadzenie wersji premium |
+| promocja aplikacji  | nawiązanie współprac  | dodanie konsultacji z dietetykiem | jednoczesne rozwijanie wersji podstawowej |
+| regularne aktualizacje | prace nad dodaniem konsultacji z dietetykiem | prace nad konsultacjami z trenerem | dodanie konsultacji z trenerem |
