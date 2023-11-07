@@ -1,1 +1,2 @@
 # Count-IT
+Projekt Count IT, to aplikacja, która ułatwi dbanie o zdrowy tryb życia. Dzięki wielu funkcjom, takim jak: liczenie kalorii, liczenie kroków, wyliczenie wskaźnika bmi, obliczenie dziennego zapotrzebowania kaloryczego, aplikacja będzie stanowiła wielką pomoc dla osób chcących zacząć nowe, zdrowsze życie. Aby sprostać stale rosnącym oczekiwaniom, każdy z użytkowników będzie miał dostęp do zdrowych przepisów oraz przykładowych treningów.
