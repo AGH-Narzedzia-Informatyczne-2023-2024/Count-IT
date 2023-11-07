@@ -3,3 +3,12 @@ Projekt Count IT, to aplikacja, która ułatwi dbanie o zdrowy tryb życia. Dzi�
 
 
 Tutaj można przeczytać więcej: [plan projektu](https://docs.google.com/document/d/1apDjpXmKEzrL-0nE6ZCeOEjP8akZZi5wl0F_ggGkdY8/edit#heading=h.38mtrp5pjges).
+##Zalety aplikacji Count It:
+
+   + łatwe użytkowanie,
+   + przyjazny dla użytkownika interfejs,
+   + brak opłat,
+
+   + szeroko rozbudowane funkcje,
+   + duży wybór materiałów treningowych,
+   + różnorodność zdrowych przepisów,
