@@ -33,7 +33,7 @@ Dodatkowo Count IT stanowi szczególne wsparcie dla osób, które:
 
 
 ##
-**Wybierz Count IT i _dbaj o swoje zdrowie, ponieważ jeśli to zrobisz, będziesz mógł zrobić wszystko inne_!**
+**Wybierz Count IT i _dbaj o swoje zdrowie, bo jeśli to zrobisz, będziesz mógł zrobić wszystko inne_!**
 ##
 ### Plan rozwoju:
 
