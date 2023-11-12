@@ -21,7 +21,6 @@ Oczywiście, aplikacja jest również idealną opcją dla osób, prowadzących z
 + wyliczanie odpowiedniej ilości kalorii do spożycia na podstawie masy i składu ciała 
 + przygotowanie zestawienia przyswojonych składników odżywczych w spożytych posiłkach 
 
-
 ## Zalety aplikacji Count IT:
 
  
@@ -32,7 +31,7 @@ Oczywiście, aplikacja jest również idealną opcją dla osób, prowadzących z
    + szeroko rozbudowane funkcje,
    + duży wybór materiałów treningowych,
    + różnorodność zdrowych przepisów,
-
+   + regularne aktualizacje z nowymi funkcjami
 
 
 ##
