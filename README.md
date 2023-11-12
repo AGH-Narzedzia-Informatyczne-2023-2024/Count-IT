@@ -18,7 +18,6 @@ Dodatkowo Count IT stanowi szczególne wsparcie dla osób, które:
 + chcą zacząć dbać o zdrowie poprzez spożywanie pełnowartościowych posiłków i zwiększenie dziennej aktywności fizycznej, ale brak im odpowiedniej wiedzy lub motywacji
 
 
-
 ## Zalety aplikacji Count IT:
 
  
@@ -29,7 +28,7 @@ Dodatkowo Count IT stanowi szczególne wsparcie dla osób, które:
    + szeroko rozbudowane funkcje,
    + duży wybór materiałów treningowych,
    + różnorodność zdrowych przepisów,
-
+   + regularne aktualizacje z nowymi funkcjami
 
 
 ##
