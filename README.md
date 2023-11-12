@@ -16,7 +16,10 @@ Dodatkowo Count IT stanowi szczególne wsparcie dla osób, które:
 + zmagają się z chorobami wymagającymi utrzymywania specjalnej diety, takimi jak cukrzyca, choroby układu krążenia, czy nietolerancje pokarmowe
 + walczą o wyjście z zaburzeń odżywiania lub zmagają się z otyłością
 + chcą zacząć dbać o zdrowie poprzez spożywanie pełnowartościowych posiłków i zwiększenie dziennej aktywności fizycznej, ale brak im odpowiedniej wiedzy lub motywacji
-
+Oczywiście, aplikacja jest również idealną opcją dla osób, prowadzących zdrowy i aktywny styl życia na co dzień, dla których Count IT będzie oferowało szeroką gamę  udogodnień, takich jak:
++ konsultacje z dietetykami i trenerami personalnymi
++ wyliczanie odpowiedniej ilości kalorii do spożycia na podstawie masy i składu ciała 
++ przygotowanie zestawienia przyswojonych składników odżywczych w spożytych posiłkach 
 
 
 ## Zalety aplikacji Count IT:
