@@ -7,10 +7,10 @@ Interfejs aplikacji ma być przejrzysty, czytelny. Aplikacja powinna być łatwa
 
 Do stworzenia aplikacji zostały wybrane następujące kolory:
 
-![](https://dekoralplstg.blob.core.windows.net/room-images/-malowniczy-be%C5%BC/swatch--malowniczy-be%C5%BC.jpg)
-![](https://dekoralplstg.blob.core.windows.net/room-images/ziele%C5%84-mchu-p%C3%B3%C5%82mat-ral-6005/swatch-ziele%C5%84-mchu-p%C3%B3%C5%82mat-ral-6005.jpg)
-![](https://dekoralplstg.blob.core.windows.net/room-images/ziele%C5%84-opuncji/swatch-ziele%C5%84-opuncji.jpg)
-![](https://dekoralplstg.blob.core.windows.net/room-images/limonkowy-sorbet/swatch-limonkowy-sorbet.jpg)
+![kolor#1](https://dekoralplstg.blob.core.windows.net/room-images/-malowniczy-be%C5%BC/swatch--malowniczy-be%C5%BC.jpg)
+![kolor#2](https://dekoralplstg.blob.core.windows.net/room-images/ziele%C5%84-mchu-p%C3%B3%C5%82mat-ral-6005/swatch-ziele%C5%84-mchu-p%C3%B3%C5%82mat-ral-6005.jpg)
+![kolor#3](https://dekoralplstg.blob.core.windows.net/room-images/ziele%C5%84-opuncji/swatch-ziele%C5%84-opuncji.jpg)
+![kolor#4](https://dekoralplstg.blob.core.windows.net/room-images/limonkowy-sorbet/swatch-limonkowy-sorbet.jpg)
 
 
 ## Projektowanie graficzne:
