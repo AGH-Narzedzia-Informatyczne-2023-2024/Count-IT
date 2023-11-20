@@ -1,8 +1,7 @@
-to jest celowe działanie wywoływania konfliktu 
-
-
-to jest próba wywołania konfliku w celu nauki rozwiązywania go
-
-
 to jest test konfliktów oraz próba ich rozwiązania
 
+
+
+To zdanie wywoluje konflikt, ktory trzeba rozwiazac.
+
+to jest celowe działanie wywoływania konfliktu 
