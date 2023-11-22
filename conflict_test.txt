@@ -1,1 +1,1 @@
-Test konfliktu - celowe wygenerowanie konfliktu 
+Test konfliktu - wywołam konflikt, celowe wygenerowanie konfliktu
